@@ -1,5 +1,5 @@
 {
-  "name": "error-builder",
+  "name": "build-basic-error",
   "version": "1.0.0",
   "description": "Error builder simple utility",
   "main": "index.js",
