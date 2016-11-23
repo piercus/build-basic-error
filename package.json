@@ -1,0 +1,24 @@
+{
+  "name": "error-builder",
+  "version": "1.0.0",
+  "description": "Error builder simple utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piercus/error-builder.git"
+  },
+  "keywords": [
+    "error",
+    "simple",
+    "node"
+  ],
+  "author": "Pierre Colle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piercus/error-builder/issues"
+  },
+  "homepage": "https://github.com/piercus/error-builder#readme"
+}
